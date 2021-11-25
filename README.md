@@ -8,7 +8,9 @@ It uses the OpenWeather One Call API to retrieve weather data for cities across 
 * HTML
 * CSS
 * JavaScript/jQuery
-* BootStrap
+* express-handlebars
+* MySQL2
+* Sequalize
 
 
 ![Todd's weather dashboard](assets/images/mvc(1).png)
