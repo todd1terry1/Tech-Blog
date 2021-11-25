@@ -16,4 +16,4 @@ Tech-Blog is a CMS-style blog site similar to a Wordpress site, where developers
 ![Todd's weather dashboard](assets/images/mvc(1).png)
 
 ## Deployed Website
-https://todd1terry1.github.io/Weather-Dashboard/
+ https://todd1terry1.github.io/Tech-Blog/
